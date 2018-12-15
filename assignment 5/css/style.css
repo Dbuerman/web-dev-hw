@@ -1,0 +1,18 @@
+#box {
+  background-color: blue;
+  width:200px;
+  height: 200px;
+}
+#name{
+  width: 300px;
+  height: 300px;
+}
+#paragraph {color: black}
+#outline {color: rgb(255, 255, 255}
+#background-color{rgb(43, 44, 48)}
+
+<head>
+  <title>1960 retro</title>
+  <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+</head>
